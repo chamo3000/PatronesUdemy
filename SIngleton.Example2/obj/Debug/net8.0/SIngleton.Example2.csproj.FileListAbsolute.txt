@@ -1,0 +1,14 @@
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\bin\Debug\net8.0\SIngleton.Example2.exe
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\bin\Debug\net8.0\SIngleton.Example2.deps.json
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\bin\Debug\net8.0\SIngleton.Example2.runtimeconfig.json
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\bin\Debug\net8.0\SIngleton.Example2.dll
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\bin\Debug\net8.0\SIngleton.Example2.pdb
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.AssemblyInfoInputs.cache
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.AssemblyInfo.cs
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.csproj.CoreCompileInputs.cache
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.dll
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\refint\SIngleton.Example2.dll
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.pdb
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\SIngleton.Example2.genruntimeconfig.cache
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\SIngleton.Example2\obj\Debug\net8.0\ref\SIngleton.Example2.dll
