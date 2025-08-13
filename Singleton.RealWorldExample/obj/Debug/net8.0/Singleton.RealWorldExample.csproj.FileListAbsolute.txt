@@ -1,0 +1,14 @@
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.AssemblyInfoInputs.cache
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.AssemblyInfo.cs
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.csproj.CoreCompileInputs.cache
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\bin\Debug\net8.0\Singleton.RealWorldExample.exe
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\bin\Debug\net8.0\Singleton.RealWorldExample.deps.json
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\bin\Debug\net8.0\Singleton.RealWorldExample.runtimeconfig.json
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\bin\Debug\net8.0\Singleton.RealWorldExample.dll
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\bin\Debug\net8.0\Singleton.RealWorldExample.pdb
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.dll
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\refint\Singleton.RealWorldExample.dll
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.pdb
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\Singleton.RealWorldExample.genruntimeconfig.cache
+C:\Users\juan.bedoya\source\repos\Singleton.Example1\Singleton.RealWorldExample\obj\Debug\net8.0\ref\Singleton.RealWorldExample.dll
